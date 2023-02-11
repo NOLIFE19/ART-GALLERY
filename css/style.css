@@ -56,3 +56,82 @@ h1{
     height: 72px;
     margin-left: 8px;
 }
+/* start section */
+.sec-1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 165px;
+    margin-top: 178px;
+    width: 1110px;
+}
+.div1{
+    max-width: 350px;
+    width: 40%;
+}
+.div1 h2{
+    font-size: 60px;
+    font-weight: 700;
+    color: #151515;
+}
+.div1 p{
+    font-size: 22px;
+    color: #444444;
+    margin-top: 32px;
+}
+.div2{
+    width: 60%;
+    margin-left: 92px;
+}
+.div3{
+    order: 3;
+    width: 60%;
+    margin-top: 30px;
+}
+.div4{
+    order: 4;
+    width: 38%;
+    margin-top: 30px;
+}
+.div5{
+    background-color: #151515;
+    text-align: center;
+    height: 377px;
+}
+.div5 h2{
+    font-size: 60px;
+    color: #ffffff;
+    padding-top: 65px;
+
+}
+.div5 p{
+    font-size: 22px;
+    color: #ffffff;
+
+}
+footer{
+    background-color: #151515;
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+    height: 244px;
+    justify-content: space-between;
+    padding: 24px;
+}
+footer h2{
+    color: #ffffff;
+    font-size: 30px;
+    font-style: normal;
+    text-transform: uppercase;
+}
+footer p{
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    color: #ffffff;
+}
+.divp{
+    width: 430px;
+}
